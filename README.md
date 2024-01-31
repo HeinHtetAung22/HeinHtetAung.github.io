@@ -76,7 +76,23 @@
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="path/to/project/image.jpg" class="card-img-top" alt="Project 1">
+                    <img src="Screenshot 2024-01-31 150427.png" class="card-img-top" alt="Project 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Project 1</h5>
+                        <p class="card-text">This is the website to read book for free </p>
+                        <a href="#" class="btn btn-primary">View Project</a>
+                    </div>
+                </div>
+                 <div class="card">
+                    <img src="Screenshot 2024-01-31 150427.png" class="card-img-top" alt="Project 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Project 1</h5>
+                        <p class="card-text">This is the website to read book for free </p>
+                        <a href="#" class="btn btn-primary">View Project</a>
+                    </div>
+                </div>
+                 <div class="card">
+                    <img src="Screenshot 2024-01-31 150427.png" class="card-img-top" alt="Project 1">
                     <div class="card-body">
                         <h5 class="card-title">Project 1</h5>
                         <p class="card-text">This is the website to read book for free </p>
