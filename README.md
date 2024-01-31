@@ -25,7 +25,6 @@
 </head>
 
 <body>
-
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <a class="navbar-brand" href="#">Hein Htet Aung</a>
@@ -76,8 +75,8 @@
     <div class="row">
         <div class="col-md-4 mb-4">
             <div class="card">
-                <!-- Add your video embed code here -->
-                <iframe width="100%" height="200" src="lv_0_20240118183910.mp4" frameborder="0" allowfullscreen></iframe>
+                <!-- Add your image here -->
+                <img src="Screenshot 2024-01-31 150427.png" alt="Project 1" class="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Project 1</h5>
                     <p class="card-text">This is the description of your project.</p>
@@ -88,6 +87,7 @@
         <!-- Add more project cards as needed -->
     </div>
 </section>
+
     <!-- Skills Section -->
     <section id="skills" class="container mt-5">
         <h2 class="text-center">Skills</h2>
