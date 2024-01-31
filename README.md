@@ -56,7 +56,7 @@
             <div class="col-md-6">
                 <h2>About Me</h2>
                 <p>I am a solo web developer.I'm 18 years old.I live in myanmar.I have no business experience.But I develop projects on my own.</p>
-                <p>I'm interest in backend.I'm not good at frontend so my ui looks bad.That's why i use bootstrap for ui.</p>
+                <p>I'm interest in backend.And I'm not good at frontend so my ui looks bad.That's why i use bootstrap for ui.</p>
                 <p>My english skill is basic but I thinks i can communicate.</p>
                 <p>My japanese skill is JLPT N1 level.</p>
                 <p>Here are  some project that i developed.</p>
@@ -77,6 +77,24 @@
             <div class="card">
                 <!-- Add your image here -->
                 <img src="Screenshot 2024-01-31 150427.png" alt="Project 1" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">Project 1</h5>
+                    <p class="card-text">This is the description of your project.</p>
+                    <a href="#" class="btn btn-primary">View Project</a>
+                </div>
+            </div>
+            <div class="card">
+                <!-- Add your image here -->
+                <img src="Screenshot 2024-01-31 150427.png" alt="Project 1" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">Project 1</h5>
+                    <p class="card-text">This is the description of your project.</p>
+                    <a href="#" class="btn btn-primary">View Project</a>
+                </div>
+            </div>
+            <div class="card">
+                <!-- Add your image here -->
+                <img src="Screenshot 2024-01-31 150827.png" alt="Project 1" class="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Project 1</h5>
                     <p class="card-text">This is the description of your project.</p>
