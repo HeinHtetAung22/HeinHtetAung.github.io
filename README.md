@@ -70,39 +70,24 @@
         </div>
     </section>
     <!-- Projects Section -->
-    <!-- <section id="projects" class="bg-light container mt-5">
-        <h2 class="text-center">Projects</h2>
-        Add your project cards here 
-        <div class="row">
-            <div class="col-md-4 mb-4">
-                <div class="card">
-                    <img src="Screenshot 2024-01-31 150427.png" class="card-img-top" alt="Project 1">
-                    <div class="card-body">
-                        <h5 class="card-title">Project 1</h5>
-                        <p class="card-text">This is the website to read book for free </p>
-                        <a href="#" class="btn btn-primary">View Project</a>
-                    </div>
-                </div>
-                 <div class="card">
-                    <img src="Screenshot 2024-01-31 150427.png" class="card-img-top" alt="Project 1">
-                    <div class="card-body">
-                        <h5 class="card-title">Project 1</h5>
-                        <p class="card-text">This is the website to read book for free </p>
-                        <a href="#" class="btn btn-primary">View Project</a>
-                    </div>
-                </div>
-                 <div class="card">
-                    <img src="Screenshot 2024-01-31 150427.png" class="card-img-top" alt="Project 1">
-                    <div class="card-body">
-                        <h5 class="card-title">Project 1</h5>
-                        <p class="card-text">This is the website to read book for free </p>
-                        <a href="#" class="btn btn-primary">View Project</a>
-                    </div>
+<section id="projects" class="bg-light container mt-5">
+    <h2 class="text-center">Projects</h2>
+    <!-- Add your project cards here -->
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <!-- Add your video embed code here -->
+                <iframe width="100%" height="200" src="lv_0_20240118183910.mp4" frameborder="0" allowfullscreen></iframe>
+                <div class="card-body">
+                    <h5 class="card-title">Project 1</h5>
+                    <p class="card-text">This is the description of your project.</p>
+                    <a href="#" class="btn btn-primary">View Project</a>
                 </div>
             </div>
-             Add more project cards as needed 
         </div>
-    </section> -->
+        <!-- Add more project cards as needed -->
+    </div>
+</section>
     <!-- Skills Section -->
     <section id="skills" class="container mt-5">
         <h2 class="text-center">Skills</h2>
